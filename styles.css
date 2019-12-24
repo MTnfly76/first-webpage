@@ -1,0 +1,99 @@
+
+body {margin: 0;
+text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+color: #40514e;}
+
+h1 {margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+font-family: 'Sacramento', cursive;
+color: #ff9d76;}
+
+.webdev {font-family: 'Merriweather Sans', sans-serif;
+font-size: 2.5rem;
+color: #ff9d76;
+font-weight: normal;
+line-height: 2;
+padding-bottom: 10px;
+}
+.profile {padding: 20px}
+
+h3 {font-family: 'Merriweather Sans', sans-serif;
+color: #11999e;}
+.music-statement {text-align: center;}
+
+.top-container { background-color: #46b3e6;
+position: relative;
+padding-top: 100px;
+}
+.divide {border-color: black;
+border: dotted 4px;
+width: 4%;}
+
+.middle-container { background-color: #94aa2a;
+padding: 30px;}
+
+
+.bottom-container {background-color: #e25822;
+padding: 40px;}
+.top-cloud {position: absolute;
+  right: 300px;
+  top: 50px;}
+  .skill-row {width: 50%;
+    line-height: 2;
+  margin: auto;
+text-align: left;
+}
+  .world {width: 25%;
+    float: left;
+    margin-right:  30px;
+}
+
+  .music {width: 30%;
+    float: right;
+    margin-left: 30px;
+
+  }
+  a {color: #f6da63;
+  font-family: 'Merriweather Sans', sans-serif;
+margin : 10px 15px;
+text-decoration: none;
+}
+a:hover {color: #EAF6f6;}
+  .btn {font-family: 'Anton', sans-serif;
+
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #32bdeb 5%, #019ad2 100%);
+	background-color:#32bdeb;
+	border-radius:8px;
+	border:1px solid #065d94;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #32bdeb 100%);
+	background-color:#065d94;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright {color: #EAF6f6;
+font-size: 0.75rem;
+padding: 20px;}
+
+
+
+  .contact-section {text-align: center;}
+  .get-in-touch {color: #9d0b0b}
+
+
+.bottom-cloud {position: absolute;
+left: 300px;
+bottom: 300px;}
